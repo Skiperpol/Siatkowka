@@ -33,7 +33,7 @@ body {
 }
 
 #scroll-top {
-    display:none;
+   
     background:url('up1.jpg');
     background-repeat:no-repeat;   
     width:50px;
